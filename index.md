@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# CSE_110_Lab1
+## Kewen Zhao
+### greeting to all of ya
+**I'm a cs student at UCSD**
 
-You can use the [editor on GitHub](https://github.com/hage1005/hage1005.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://cdn.swimswam.com/wp-content/uploads/2020/08/UCSD-2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*2023*
 
-### Markdown
+~~I'm good at coding~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**But I'm good at _cpp_ !**
 
-```markdown
-Syntax highlighted code block
+***I cook sometimes***
 
-# Header 1
-## Header 2
-### Header 3
+> stay safe
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+printing `hello world` to ya
 ```
+print("hello world")
+```
+```c
+print("hello world with color")
+```
+my github page[GitHub Pages](https://github.com/hage1005)
+[relative link to md](README.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I know 
+- cpp
+- java
 
-### Jekyll Themes
+1. python
+2. c
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hage1005/hage1005.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+i'm at
+1. US
+   - San Diego
+     - La Jolla
 
-### Support or Contact
+- [x] work hard
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+@duckduckwhale hi
+
+:shipit:
+
+\*\* not bolded \*\*
+ 
