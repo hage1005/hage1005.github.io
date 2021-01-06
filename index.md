@@ -41,7 +41,7 @@ i'm at
 My goal for this year
 - [x] work hard
 - [x] discover my interests
-- [x] make friends
+- [ ] make friends
 
 @duckduckwhale hi
 
