@@ -38,8 +38,10 @@ i'm at
 1. US
    - San Diego
      - La Jolla
-
+My goal for this year
 - [x] work hard
+- [x] discover my interests
+- [x] make friends
 
 @duckduckwhale hi
 
